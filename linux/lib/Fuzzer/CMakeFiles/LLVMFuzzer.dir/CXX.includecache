@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/project/ollvm-src/lib/Fuzzer/FuzzerDefs.h
+cassert
+-
+cstddef
+-
+cstdint
+-
+cstring
+-
+string
+-
+vector
+-
+
+/project/ollvm-src/lib/Fuzzer/FuzzerMain.cpp
+FuzzerDefs.h
+/project/ollvm-src/lib/Fuzzer/FuzzerDefs.h
+
