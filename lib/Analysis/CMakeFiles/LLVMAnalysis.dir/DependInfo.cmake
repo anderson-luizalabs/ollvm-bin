@@ -1,0 +1,115 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/AliasAnalysis.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/AliasAnalysis.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/AliasAnalysisEvaluator.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/AliasAnalysisEvaluator.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/AliasAnalysisSummary.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/AliasAnalysisSummary.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/AliasSetTracker.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/AliasSetTracker.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/Analysis.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/Analysis.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/AssumptionCache.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/AssumptionCache.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/BasicAliasAnalysis.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/BasicAliasAnalysis.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/BlockFrequencyInfo.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/BlockFrequencyInfo.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/BlockFrequencyInfoImpl.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/BlockFrequencyInfoImpl.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/BranchProbabilityInfo.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/BranchProbabilityInfo.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/CFG.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/CFG.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/CFGPrinter.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/CFGPrinter.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/CFLAndersAliasAnalysis.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/CFLAndersAliasAnalysis.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/CFLSteensAliasAnalysis.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/CFLSteensAliasAnalysis.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/CGSCCPassManager.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/CGSCCPassManager.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/CallGraph.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/CallGraph.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/CallGraphSCCPass.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/CallGraphSCCPass.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/CallPrinter.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/CallPrinter.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/CaptureTracking.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/CaptureTracking.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/CodeMetrics.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/CodeMetrics.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/ConstantFolding.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ConstantFolding.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/CostModel.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/CostModel.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/Delinearization.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/Delinearization.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/DemandedBits.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/DemandedBits.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/DependenceAnalysis.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/DependenceAnalysis.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/DivergenceAnalysis.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/DivergenceAnalysis.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/DomPrinter.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/DomPrinter.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/DominanceFrontier.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/DominanceFrontier.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/EHPersonalities.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/EHPersonalities.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/GlobalsModRef.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/GlobalsModRef.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/IVUsers.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/IVUsers.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/IndirectCallPromotionAnalysis.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/IndirectCallPromotionAnalysis.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/InlineCost.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/InlineCost.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/InstCount.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/InstCount.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/InstructionSimplify.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/InstructionSimplify.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/Interval.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/Interval.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/IntervalPartition.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/IntervalPartition.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/IteratedDominanceFrontier.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/IteratedDominanceFrontier.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/LazyBlockFrequencyInfo.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/LazyBlockFrequencyInfo.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/LazyBranchProbabilityInfo.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/LazyBranchProbabilityInfo.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/LazyCallGraph.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/LazyCallGraph.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/LazyValueInfo.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/LazyValueInfo.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/Lint.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/Lint.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/Loads.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/Loads.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/LoopAccessAnalysis.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/LoopAccessAnalysis.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/LoopAnalysisManager.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/LoopAnalysisManager.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/LoopInfo.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/LoopInfo.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/LoopPass.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/LoopPass.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/LoopUnrollAnalyzer.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/LoopUnrollAnalyzer.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/MemDepPrinter.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/MemDepPrinter.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/MemDerefPrinter.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/MemDerefPrinter.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/MemoryBuiltins.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/MemoryBuiltins.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/MemoryDependenceAnalysis.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/MemoryDependenceAnalysis.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/MemoryLocation.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/MemoryLocation.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/MemorySSA.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/MemorySSA.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/MemorySSAUpdater.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/MemorySSAUpdater.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/ModuleDebugInfoPrinter.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ModuleDebugInfoPrinter.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/ModuleSummaryAnalysis.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ModuleSummaryAnalysis.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/ObjCARCAliasAnalysis.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ObjCARCAliasAnalysis.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/ObjCARCAnalysisUtils.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ObjCARCAnalysisUtils.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/ObjCARCInstKind.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ObjCARCInstKind.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/OptimizationDiagnosticInfo.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/OptimizationDiagnosticInfo.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/OrderedBasicBlock.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/OrderedBasicBlock.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/PHITransAddr.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/PHITransAddr.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/PostDominators.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/PostDominators.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/ProfileSummaryInfo.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ProfileSummaryInfo.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/PtrUseVisitor.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/PtrUseVisitor.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/RegionInfo.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/RegionInfo.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/RegionPass.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/RegionPass.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/RegionPrinter.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/RegionPrinter.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/ScalarEvolution.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ScalarEvolution.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/ScalarEvolutionAliasAnalysis.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ScalarEvolutionAliasAnalysis.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/ScalarEvolutionExpander.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ScalarEvolutionExpander.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/ScalarEvolutionNormalization.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ScalarEvolutionNormalization.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/ScopedNoAliasAA.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ScopedNoAliasAA.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/SparsePropagation.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/SparsePropagation.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/TargetLibraryInfo.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/TargetLibraryInfo.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/TargetTransformInfo.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/TargetTransformInfo.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/Trace.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/Trace.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/TypeBasedAliasAnalysis.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/TypeBasedAliasAnalysis.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/TypeMetadataUtils.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/TypeMetadataUtils.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/ValueTracking.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/ValueTracking.cpp.o"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis/VectorUtils.cpp" "/Users/spider/projects/build/lib/Analysis/CMakeFiles/LLVMAnalysis.dir/VectorUtils.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "GTEST_HAS_RTTI=0"
+  "LLVM_BUILD_GLOBAL_ISEL"
+  "__STDC_CONSTANT_MACROS"
+  "__STDC_FORMAT_MACROS"
+  "__STDC_LIMIT_MACROS"
+  )
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "lib/Analysis"
+  "/Users/spider/projects/llvm-obfuscator/lib/Analysis"
+  "include"
+  "/Users/spider/projects/llvm-obfuscator/include"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/spider/projects/llvm-obfuscator/lib/Fuzzer/FuzzerDefs.h
+cassert
+-
+cstddef
+-
+cstdint
+-
+cstring
+-
+string
+-
+vector
+-
+
+/Users/spider/projects/llvm-obfuscator/lib/Fuzzer/FuzzerMain.cpp
+FuzzerDefs.h
+/Users/spider/projects/llvm-obfuscator/lib/Fuzzer/FuzzerDefs.h
+
